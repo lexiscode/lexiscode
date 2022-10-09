@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nwokorie Alexander with username: @lexiscode
+- 👋 Hi, I’m Nwokorie Alexander with GitHub username: @lexiscode
 - 👀 I’m interested in becoming a Full Stake Developer in 2022/2023
 - 🌱 I’m currently learning Software Engineering @ ALX 
 - 💞️ I’m looking to collaborate on building creative real-world (problem solving) projects
