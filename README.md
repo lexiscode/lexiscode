@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+-+Junior+PHP+and+Python+Developer+)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Junior+PHP+and+Python+Developer+)](https://git.io/typing-svg)
 - ![200w](https://user-images.githubusercontent.com/106952550/191071307-bdd26ed3-0f13-472c-9d01-817121faeb6b.gif)
 - 👀 I’m interested in becoming a Full Stack Developer in 2022/2023
 - 🌱 I’m currently PHP Backend Development @ Jagaad Academy 
