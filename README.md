@@ -9,7 +9,7 @@ I'm a student at Jagaad Academy and also ALX SE, I have been focusing on Backend
 
 - Current location: Ibadan, Oyo State 📌
 
-Aspiring junior Python and PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
+Aspiring senior Python and PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 ### My GitHub Stats <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexiscode&show_icons=true&theme=dracula)
