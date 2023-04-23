@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Junior+PHP+and+Python+Developer+)](https://git.io/typing-svg)
-<!--- ![200w](https://user-images.githubusercontent.com/106952550/191071307-bdd26ed3-0f13-472c-9d01-817121faeb6b.gif) --->
-![ezgif com-crop](https://user-images.githubusercontent.com/42210784/233861321-845a1682-be5a-485f-866f-74be4960f28f.gif)
+
+![ezgif com-cropp](https://user-images.githubusercontent.com/42210784/233861858-822dc31b-5857-46b8-a037-804179e875f5.gif)
 
 I'm a student at Jagaad Academy and also ALX SE, I have been focusing on Backend development with C, Python & Django, PHP & Symfony, MySQL & SQLite, Procedural and Object-Oriented Programming.
 
