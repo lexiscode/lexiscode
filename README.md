@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Junior+PHP+Developer+.+.+.)](https://git.io/typing-svg)
-![ezgif com-cropp](https://user-images.githubusercontent.com/42210784/233861858-822dc31b-5857-46b8-a037-804179e875f5.gif)
+:![ezgif com-cropp](https://user-images.githubusercontent.com/42210784/233861858-822dc31b-5857-46b8-a037-804179e875f5.gif):
 
 I'm a student at Jagaad Academy and also ALX SE, I have been focusing on Backend development with C, Python & Django, PHP & Symfony, MySQL & SQLite, Procedural and Object-Oriented Programming.
 
@@ -13,6 +13,7 @@ Aspiring Senior Software Engineer, willing to continuously grow and learn, eager
 
 ### My GitHub Stats <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexiscode&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexiscode)](https://github.com/lexiscode/github-readme-stats)
 
 ### My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
 <a href="https://app.daily.dev/Lexiscode"><img src="https://api.daily.dev/devcards/caa40d2d0d2940419f186d65d7f963f8.png?r=ng5" width="400" alt="Alexander Vincent's Dev Card"/></a>
