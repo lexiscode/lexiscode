@@ -8,7 +8,7 @@
 Aspiring Junior PHP Developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 - Currently, I'm looking for an opportunity to work as a junior developer. 💻🐘
-- I'm from Imo, Nigeria 📌
+- I'm residing in Ibadan, Lagos 📌
 - I’m continuously learning **PHP** 🐘
 - Ask me about **Anything**, I am happy to help 💬
 - I try to **Go beyond and push the bounds** 🧗
@@ -19,7 +19,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 - <a href="https://github.com/lexiscode/lexispress_cms-app">LexisPress CMS</a>
 - <a href="https://github.com/lexiscode/hotel_room_reservation-app">Hotel Room Reservation</a>
 - <a href="https://github.com/lexiscode/students_form-app">Student's Management System</a>
-- <a href="https://github.com/lexiscode/todo-app">TODO App</a>
+- <a href="https://github.com/lexiscode/flight_booking-app">Flight Booking App</a>
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
