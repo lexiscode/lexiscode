@@ -1,6 +1,3 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Junior+PHP+Developer+.+.+.)](https://git.io/typing-svg)
-
-
 <h1 align="center">Greetings 🙋‍♂️, I'm Alexander Vincent</h1>
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=A+diligent+back-end+developer+from+Nigeria.;Working+tirelessly+to+create+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
@@ -29,7 +26,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 
 
-
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Junior+PHP+Developer+.+.+.)](https://git.io/typing-svg)
 I'm a student at Jagaad Academy and also ALX SE, I have been focusing on Backend development with C, Python & Django, PHP & Symfony, MySQL & SQLite, Procedural and Object-Oriented Programming.
 
 - Currently, I'm looking for an opportunity to work as a junior developer. 💻 🐘
