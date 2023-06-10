@@ -92,7 +92,10 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nwokorie-2688a913a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lexis_code/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nwokoriealex20@gmail.com)
 
-## <img src="https://img.icons8.com/nolan/26/github.png"/> GitHub Stats
+## **My Certifications 🏅**
+I'm a student at Jagaad Academy and also ALX SE, I have been focusing on Backend development with C, Python & Django, PHP & Symfony, MySQL & SQLite, Procedural and Object-Oriented Programming.
+
+## <img src="https://img.icons8.com/nolan/26/github.png"/> My GitHub Stats
 
 <div align="center">
 <p align="center">
@@ -106,28 +109,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 
 
-
-
-
-
-
-
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Junior+PHP+Developer+.+.+.)](https://git.io/typing-svg)
-I'm a student at Jagaad Academy and also ALX SE, I have been focusing on Backend development with C, Python & Django, PHP & Symfony, MySQL & SQLite, Procedural and Object-Oriented Programming.
-
-- Currently, I'm looking for an opportunity to work as a junior developer. 💻 🐘
-
-- How to contact me: [LinkedIn](https://www.linkedin.com/in/alex-nwokorie-2688a913a/) | [Email](mailto:nwokoriealex20@gmail.com) 📫
-
-- Current location: Ibadan, Oyo State 📌
-
-Aspiring Senior Software Engineer, willing to continuously grow and learn, eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
-
-### My GitHub Stats <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexiscode&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexiscode)](https://github.com/lexiscode/github-readme-stats)
-
-### My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
-<a href="https://app.daily.dev/Lexiscode"><img src="https://api.daily.dev/devcards/caa40d2d0d2940419f186d65d7f963f8.png?r=ng5" width="400" alt="Alexander Vincent's Dev Card"/></a>
+<!--### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Junior+PHP+Developer+.+.+.)](https://git.io/typing-svg)
+-->
 
 
