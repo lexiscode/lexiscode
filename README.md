@@ -8,7 +8,7 @@
 Aspiring Junior PHP Developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 - Currently, I'm looking for an opportunity to work as a junior developer. 💻🐘
-- I'm residing in Ibadan, Lagos 📌
+- I'm residing in Ibadan, Oyo 📌
 - I’m continuously learning **PHP** 🐘
 - Ask me about **Anything**, I am happy to help 💬
 - I try to **Go beyond and push the bounds** 🧗
