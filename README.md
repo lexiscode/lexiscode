@@ -1,6 +1,6 @@
 <h1 align="center">Greetings 🙋‍♂️, I'm Alexander Vincent</h1>
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=A+diligent+back-end+developer+from+Nigeria.;Working+tirelessly+to+create+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=A+diligent+backend+developer+from+Nigeria.;Working+tirelessly+to+create+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
 </h3>
 
 <a href="https://app.daily.dev/Lexiscode"><img align="right" src="https://api.daily.dev/devcards/caa40d2d0d2940419f186d65d7f963f8.png?r=ng5" width="400" alt="Alexander Vincent's Dev Card"/></a>
@@ -91,6 +91,21 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nwokorie-2688a913a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lexis_code/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nwokoriealex20@gmail.com)
+
+## <img src="https://img.icons8.com/nolan/26/github.png"/> GitHub Stats
+
+<div align="center">
+<p align="center">
+<a href="https://github.com/KrivanRaulAdrian">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KrivanRaulAdrian&&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KrivanRaulAdrian&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://streak-stats.demolab.com?user=KrivanRaulAdrian&_border=true&theme=dark&hide_border=true&theme=dracula" style="width: 95%" />
+ </a>
+</p>
+</div>
+
+
+
 
 
 
