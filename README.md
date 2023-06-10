@@ -93,7 +93,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nwokorie-2688a913a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lexis_code/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nwokoriealex20@gmail.com)
 
 ## **My Certifications 🏅**
-I'm a student at Jagaad Academy and also ALX SE, I have been focusing on Backend development with C, Python & Django, PHP & Symfony, MySQL & SQLite, Procedural and Object-Oriented Programming.
+I'm currently on a confidential backend schooling program, to be certified soon. I have been focusing on Backend development for about a year now and I've worked with C, Python & Django, but my speciality is with PHP backend language & its frameworks like Symfony and Laravel; with using MySQL & PDO, PP and OOP.
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> My GitHub Stats
 
