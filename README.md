@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=A+diligent+back-end+developer+from+Nigeria.;Working+tirelessly+to+create+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
 </h3>
 
-<a href="https://app.daily.dev/Lexiscode"><img src="https://api.daily.dev/devcards/caa40d2d0d2940419f186d65d7f963f8.png?r=ng5" width="400" alt="Alexander Vincent's Dev Card"/></a>
+<a href="https://app.daily.dev/Lexiscode"><img align="right" src="https://api.daily.dev/devcards/caa40d2d0d2940419f186d65d7f963f8.png?r=ng5" width="400" alt="Alexander Vincent's Dev Card"/></a>
 
 Junior PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
