@@ -16,10 +16,10 @@ Junior PHP developer, willing to continuously grow and learn,eager to write and 
 
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
-- <a href="https://github.com/KrivanRaulAdrian/lexispress_cms-app">LexisPress CMS</a>
-- <a href="https://github.com/KrivanRaulAdrian/hotel_room_reservation-app">Hotel Room Reservation</a>
-- <a href="https://github.com/KrivanRaulAdrian/students_form-app">Student's Management System</a>
-- <a href="https://github.com/KrivanRaulAdrian/todo-app">TODO App</a>
+- <a href="https://github.com/lexiscode/lexispress_cms-app">LexisPress CMS</a>
+- <a href="https://github.com/lexiscode/hotel_room_reservation-app">Hotel Room Reservation</a>
+- <a href="https://github.com/lexiscode/students_form-app">Student's Management System</a>
+- <a href="https://github.com/lexiscode/todo-app">TODO App</a>
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
@@ -96,10 +96,10 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 <div align="center">
 <p align="center">
-<a href="https://github.com/KrivanRaulAdrian">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KrivanRaulAdrian&&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KrivanRaulAdrian&layout=compact&langs_count=8&theme=dracula"/>
-  <img src="https://streak-stats.demolab.com?user=KrivanRaulAdrian&_border=true&theme=dark&hide_border=true&theme=dracula" style="width: 95%" />
+<a href="https://github.com/lexiscode">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lexiscode&&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lexiscode&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://streak-stats.demolab.com?user=lexiscode&_border=true&theme=dark&hide_border=true&theme=dracula" style="width: 95%" />
  </a>
 </p>
 </div>
