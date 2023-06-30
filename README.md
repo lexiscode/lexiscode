@@ -18,7 +18,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 - <a href="https://github.com/lexiscode/lexispress_cms-app">LexisPress CMS</a>
 - <a href="https://github.com/lexiscode/hotel_room_reservation-app">Hotel Room Reservation</a>
-- <a href="https://github.com/lexiscode/students_form-app">Student's Management System</a>
+- <a href="https://github.com/lexiscode/students_management-app">Student Management System</a>
 - <a href="https://github.com/lexiscode/flight_booking-app">Flight Booking App</a>
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
