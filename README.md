@@ -19,6 +19,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 - <a href="https://github.com/lexiscode/online_store-app">Online Shop App</a>
 - <a href="https://github.com/lexiscode/lexispress_cms-app">LexisPress CMS</a>
 - <a href="https://github.com/lexiscode/blog-posts-api">Blog Posts API</a>
+- <a href="https://github.com/lexiscode/personal_task-manager">Personal Task Manager</a>
 - <a href="https://github.com/lexiscode/students_management-app">Student Management System</a>
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
