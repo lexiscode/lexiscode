@@ -93,16 +93,12 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nwokorie-2688a913a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lexis_code/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nwokoriealex20@gmail.com)
 
-## **My Certifications 🏅**
-I'm currently on a confidential backend schooling program, to be certified soon. I have been focusing on Backend development for about a year now and I've worked with C, Python & Django, but my speciality is with PHP backend language & its frameworks like Symfony and Laravel; with using MySQL & PDO, PP and OOP.
-
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> My GitHub Stats
 
 <div align="center">
 <p align="center">
 <a href="https://github.com/lexiscode">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lexiscode&&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lexiscode&layout=compact&langs_count=8&theme=dracula"/>
   <img src="https://streak-stats.demolab.com?user=lexiscode&_border=true&theme=dark&hide_border=true&theme=dracula" style="width: 95%" />
  </a>
 </p>
