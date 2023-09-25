@@ -17,7 +17,7 @@ Aspiring Junior PHP Developer, willing to continuously grow and learn,eager to w
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
 - <a href="https://github.com/lexiscode/online_store-app">Online Shop App</a>
-- <a href="https://github.com/lexiscode/lexispress_cms-app">LexisPress CMS</a>
+- <a href="https://github.com/lexiscode/estate-management-system">RealEstate Marketplace with Admin Panel</a>
 - <a href="https://github.com/lexiscode/blog-posts-api">Blog Posts API</a>
 - <a href="https://github.com/lexiscode/personal_task-manager">Personal Task Manager</a>
 - <a href="https://github.com/lexiscode/students_management-app">Student Management System</a>
