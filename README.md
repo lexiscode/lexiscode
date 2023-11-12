@@ -97,6 +97,8 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> My GitHub Stats
 
 <div align="center">
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lexiscode" alt="lexiscode" /></a> </p>
+   
 <p align="center">
 <a href="https://github.com/lexiscode">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lexiscode&&show_icons=true&theme=dracula"/>
