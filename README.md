@@ -17,11 +17,11 @@ A Junior PHP Developer, willing to continuously grow and learn,eager to write an
 
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
-- <a href="https://github.com/lexiscode/e-learning-app">E-Learning App</a>
+- <a href="https://github.com/lexiscode/e-learning-app">Online-Learning App</a>
 - <a href="https://github.com/lexiscode/online_store-app">Online Shop App</a>
 - <a href="https://github.com/lexiscode/estate-management-system">RealEstate Marketplace with Admin Panel</a>
 - <a href="https://github.com/lexiscode/blog-posts-api">Blog Posts API</a>
-- <a href="https://github.com/lexiscode/personal_task-manager">Personal Task Manager</a>
+- <a href="https://github.com/lexiscode/payment-api">Payment API</a>
 - <a href="https://github.com/lexiscode/students_management-app">Student Management System</a>
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
