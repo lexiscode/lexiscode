@@ -16,13 +16,15 @@ A Junior PHP Full-stack Developer, willing to continuously grow and learn,eager 
 
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
-- <a href="https://github.com/lexiscode/news_portal-app">News Portal App</a>
-- <a href="https://github.com/lexiscode/e-learning-app">Online Learning App</a>
-- <a href="https://github.com/lexiscode/online_store-app">Online Shop App</a>
-- <a href="https://github.com/lexiscode/estate-management-system">RealEstate Marketplace with Admin Panel</a>
-- <a href="https://github.com/lexiscode/blog-posts-api">Blog Posts API</a>
-- <a href="https://github.com/lexiscode/payment-api">Payment API</a>
-- <a href="https://github.com/lexiscode/students_management-app">Student Management System</a>
+- HTML, CSS, BootStrap, WordPress
+- JavaScript, ES6, jQuery
+- ReactJS, VueJS, Pinia
+- Core PHP, PP, OOP & Design Patterns
+- Laravel, Symfony & Slim frameworks
+- REST API, GraphQLi, Postman/Insomnia
+- MySQL/MariaDB, Workbench
+- Docker, Git, Heroku, CI/CD
+- XAMPP, Laragon
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
