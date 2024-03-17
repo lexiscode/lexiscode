@@ -14,7 +14,7 @@ A Junior PHP Full-stack Developer, willing to continuously grow and learn,eager 
 - I try to **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people ⚡ 
 
-Check out some of my projects here on GitHub; they cover different topics I studied. 📚
+Check out all my proficient skill sets: 📚
 
 - HTML, CSS, BootStrap, WordPress
 - JavaScript, ES6, jQuery
