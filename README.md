@@ -5,7 +5,7 @@
 
 <a href="https://app.daily.dev/Lexiscode"><img align="right" src="https://api.daily.dev/devcards/caa40d2d0d2940419f186d65d7f963f8.png?r=ng5" width="400" alt="Alexander Vincent's Dev Card"/></a>
 
-A Junior PHP Developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
+A Junior PHP Full-stack Developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 - Currently, I'm working as a junior backend developer @ JAGAAD D.S. 💻🐘
 - I'm residing in Ibadan, Oyo 📌
