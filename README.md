@@ -7,7 +7,7 @@
 
 A Junior PHP Full-stack Developer, willing to continuously grow and learn, eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
-- Currently, I'm working as a junior backend developer @ JAGAAD D.S. 💻🐘
+- Currently, I'm working as a Backend Software Engineer @ JAGAAD D.S. 💻🐘
 - I'm residing in Ibadan, Oyo 📌
 - I’m continuously learning **PHP** 🐘
 - Ask me about **Anything**, I am happy to help 💬
